@@ -5,6 +5,7 @@ The file is a starting point for creating your own surfaces depending of your fi
 - Touching on a parameter name (about 1s touch) gives you a yellow frame which indicates special modes
   - Fine mode (16bit parameters)
   - Acceleration mode (8bit parameters) which gives you 4 clicks instead of one
+- Click on the Encoder gives you the Home value
 
 Following preparations are necessary
 - You need the new Stream Deck +
