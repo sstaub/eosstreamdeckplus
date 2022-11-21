@@ -1,6 +1,6 @@
 # streamdeckplus
 Coniguration file for use the ***Stream Deck +*** console with ETC Eos Family consoles.<br>
-The file is a starting point for creating your own surfaces.
+The file is a starting point for creating your own surfaces depending of your fixtures.
 - There is no feedback of values possible
 - Touching on a parameter name (about 1s touch) gives you a yellow frame which indicates special modes
   - Fine mode (16bit parameters)
