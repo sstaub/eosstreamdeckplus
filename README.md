@@ -13,3 +13,7 @@ Following preparations are necessary
 - For WLAN you should give a static address instead of the DHCP address of your router
 - It use only the generic OSC module not the EOS module
 - You must do the right network configuration
+
+Problems
+- It is a beta version
+- On startup you may rescan for devices
