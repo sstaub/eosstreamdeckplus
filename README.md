@@ -3,12 +3,13 @@ Coniguration file for use the ***Stream Deck +*** console with ETC Eos Family co
 The file is a starting point for creating your own surfaces depending of your fixtures.<br>
 There are two versions, simple and extended.<br>
 The simple version use two separate encoders for fine and course.<br>
-The extended version gives some tricky fine/course/acceleration modes.
+The experimental version gives some tricky fine/course/acceleration modes which didn't work proper in the moment,
+cause of a bug with import/export. It can solved if you set the current values of the custom variables to the startup value.
 - There is no feedback of values possible
 - Click on the Encoder gives you the Home value
-- Extended version: Touching on a parameter name (about 1s touch) gives you a yellow frame which indicates special modes
+- Experimental version: Touching on a parameter name (about 1s touch) gives you a yellow frame which indicates special modes
   - Fine mode (16bit parameters)
-  - Acceleration mode (8bit parameters) which gives you 4 clicks instead of one.
+  - Acceleration mode (8bit parameters) which gives you 4 clicks instead of one. 
 - The custom variable ```$(internal:custom_acceleration)``` allows you the set the clicks acceleration global.
 
 Following preparations are necessary
@@ -20,5 +21,5 @@ Following preparations are necessary
 - You must do the right network configuration
 
 Problems
-- It is a beta version
+- 2.4.x is a beta version, so use always the last version
 - On startup you may rescan for devices
