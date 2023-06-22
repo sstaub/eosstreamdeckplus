@@ -1,6 +1,37 @@
 # streamdeckplus
 Configuration file for use the ***Stream Deck +*** console with ETC Eos Family consoles.<br>
 The file is a starting point for creating your own surfaces depending of your fixtures.<br>
+
+### New beta version
+There is a brand new version using Companion beta for version 3 and companion-module-etc-eos<br>
+
+Following features are contained with the update
+- Parameter sorted with categories
+- Parameter Feedback
+- TCP over SLIP
+- Cue Handling
+- and many more improvements
+
+The example in the beta folder contains 7 pages
+- Main Menu
+![Menu](./images/Menu.jpeg)
+- Setup
+![Setup](./images/Setup.jpeg)
+- Wheels
+![Wheels](./images/Wheels.jpeg)
+- Cues
+![Cues](./images/Cues.jpeg)
+- Softkeys
+![Softkeys](./images/Softkeys.jpeg)
+- Submasters
+![Submasters](./images/Submasters.jpeg)
+- Facepanel
+![Facepanel](./images/Facepanel.jpeg)
+
+Many thanks to Steve Palm for his great work.
+
+### old stuff
+
 There are two release versions, simple and extended.<br>
 The simple version use two separate encoders for fine and course.<br>
 The extended version gives some tricky fine/course/acceleration modes.
@@ -8,7 +39,7 @@ The extended version gives some tricky fine/course/acceleration modes.
 - Click on the Encoder gives you the Home value
 - Extended version: Touching on a parameter name (about 1s touch) gives you a yellow frame which indicates special modes
   - Fine mode (16bit parameters)
-  - Acceleration mode (8bit parameters) which gives you 4 clicks instead of one. 
+  - Acceleration mode (8bit parameters) which gives you 4 clicks instead of one.
 - The custom variable ```$(internal:custom_acceleration)``` allows you the set the clicks acceleration global.
 
 There is an additional experimental folder which contain configurations for the next main release of Companion. For this files you need a beta of 3.x. <br>
