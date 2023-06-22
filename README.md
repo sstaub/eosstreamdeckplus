@@ -14,19 +14,19 @@ Following features are contained with the update
 
 The example in the beta folder contains 7 pages
 - Main Menu
-![Menu](./images/Menu.jpeg)
+![Menu](./images/Menu.jpeg =250x)
 - Setup
-![Setup](./images/Setup.jpeg)
+![Setup](./images/Setup.jpeg =250x)
 - Wheels
-![Wheels](./images/Wheels.jpeg)
+![Wheels](./images/Wheels.jpeg =250x)
 - Cues
-![Cues](./images/Cues.jpeg)
+![Cues](./images/Cues.jpeg =250x)
 - Softkeys
-![Softkeys](./images/Softkeys.jpeg)
+![Softkeys](./images/Softkeys.jpeg =250x)
 - Submasters
-![Submasters](./images/Submasters.jpeg)
+![Submasters](./images/Submasters.jpeg =250x)
 - Facepanel
-![Facepanel](./images/Facepanel.jpeg)
+![Facepanel](./images/Facepanel.jpeg =250x)
 
 Many thanks to Steve Palm for his great work.
 
