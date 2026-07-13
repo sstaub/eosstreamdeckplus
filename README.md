@@ -2,6 +2,10 @@
 Configuration file for use the ***Stream Deck +*** console with ETC Eos Family consoles.<br>
 The file is a starting point for creating your own surfaces depending of your fixtures.<br>
 
+### New version for Companion v5.x
+This release is for Companion v5.x<br>
+There are many layout improvments
+
 ### New version for Companion v3.x
 There is a brand new version using Companion v3 and companion-module-etc-eos<br>
 
